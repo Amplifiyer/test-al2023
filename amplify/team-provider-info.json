@@ -10,6 +10,14 @@
       "StackName": "amplify-al2023-dev-506ff",
       "StackId": "arn:aws:cloudformation:us-west-2:373292627526:stack/amplify-al2023-dev-506ff/f00a6310-dc24-11ee-b26e-06b58fb80697",
       "AmplifyAppId": "d3pxkoozfskl1v"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3pxkoozfskl1v",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
